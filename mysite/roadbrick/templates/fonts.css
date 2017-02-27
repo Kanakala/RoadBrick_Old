@@ -1,0 +1,19 @@
+
+/*********************************************************************************/
+/* Icons                                                                         */
+/*********************************************************************************/
+
+	/*
+		Powered by:
+		
+		Font Awesome (http://fortawesome.github.com/Font-Awesome/)
+		Font Awesome More (http://gregoryloucas.github.com/Font-Awesome-More/)
+	*/
+
+
+		.icon-ok:before                   { content: "\f00c"; }
+		.icon-check:before                { content: "\f046"; }
+		.icon-money:before                { content: "\f0d6"; }
+		.icon-lock:before                 { content: "\f023"; }
+		.icon-twitter-sign:before         { content: "\f081"; }
+		
